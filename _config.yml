@@ -1,5 +1,5 @@
 # Site
-repository: https://TKTheTechie.github.io
+repository: github.com/TKTheTechie
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
@@ -30,7 +30,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: profile.png
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Seasoned technology leader that has experience across startups, mid-size and large enterprises. I have experience building and leading both remote and on-site technology teams.
 
