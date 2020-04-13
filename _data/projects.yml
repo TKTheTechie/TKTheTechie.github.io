@@ -1,0 +1,43 @@
+# Project template
+- layout: top-middle
+  name: Fundamentals of Solace Development
+  link: https://www.udemy.com/course/fundamentals-of-solace-development
+  github: https://github.com/SolaceTraining/fundamentals-of-solace-dev
+  quote: >
+    A developer's guide to messaging with Solace PubSub+
+  description: | # this will include new lines to allow paragraphs
+    Lead the development of this udemy course built out in Java and JavaScript to educate our users and prospects on the usage of the Solace PubSub+ Event Broker
+
+- layout: top-middle
+  name: Battleship over Solace PubSub+
+  link: https://solace.com/blog/battleship-microservices-typescript/
+  github: https://github.com/SolaceTraining/solace-battleship
+  quote: >
+    A course that builds out a full-stack game of Battleship using TypeScript (in Aurelia JS) and Java (in Spring Cloud Stream)
+  description: | # this will include new lines to allow paragraphs
+    Lead the development of this advanced udemy course built out in Java and JavaScript to educate our users and prospects on the usage of the Solace PubSub+ Event Broker
+
+- layout: top-middle
+  name: Build a Proximity Detection System with a Raspberry Pi, Solace PubSub+ and JavaScript
+  link: https://solace.com/blog/build-a-proximity-detection-system/
+  github: https://github.com/solacese/raspberry-pi-ultrasonic-sensor-mqtt
+  quote: >
+    Built a JavaScript powered proximity detection system on a Raspberry Pi
+  description: | # this will include new lines to allow paragraphs
+    Integrated a proximity sensor on a Raspberry PI with the Solace PubSub+ Event broker to push proximity events over the interent.
+
+- layout: top-middle
+  name: A guide to connectivity for OpenFin Architects and Developers
+  link: http://em.solace.com/wB0IY0iCd000006t0000Q09
+  quote: >
+    An architect's guide for estabilishing streaming connectivity to OpenFin applications
+  description: | # this will include new lines to allow paragraphs
+    Published a whitepaper demonstrating how OpenFin applications can simplify their connectivity using Solace's technology
+
+- layout: top-middle
+  name: Solace Blog
+  link: https://solace.com/blog/author/thomaskunnumpurath/
+  quote: >
+    My professional blogging microsite
+  description: | # this will include new lines to allow paragraphs
+    Houses all blogs that I've authored while working for Solace

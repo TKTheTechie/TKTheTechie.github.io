@@ -1,0 +1,18 @@
+# Education Template
+- layout: left
+  name: New Jersey Institute of Technology
+  dates: 2001 - 2005
+  qualification: BS in Computer Science
+  description: 4.0 Major GPA (3.78 overall GPA)
+
+- layout: left
+  name: AWS Certified Developer Associate
+  dates: 2017
+  qualification: <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2017-08-14&ci=AWS00294483&dm=80">Link to Certification</a>
+  description: The AWS Certified Developer – Associate exam validates technical expertise in developing and maintaining applications on the AWS platform.
+
+- layout: left
+  name: Google Certified Cloud Developer
+  dates: 2019
+  qualification: <a href="https://www.credential.net/cc7330ed-7dc8-4b52-96cb-51e85206018c?key=f812468048b3969ddde8126abdbfc508b13305f293928fd20f204f01c5608702">Link to Certification</a>
+  description: A Professional Cloud Developer builds scalable and highly available applications using Google recommended practices and tools that leverage fully managed services. This individual has experience with next generation databases, runtime environments and developer tools. The Professional Cloud Developer also has proficiency with at least one general purpose programming language and is skilled with using Stackdriver to produce meaningful metrics and logs to debug and trace code.

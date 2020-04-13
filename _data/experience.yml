@@ -1,0 +1,67 @@
+# Experience template
+- layout: left
+  company: Solace
+  link: http://www.solace.com
+  job_title: Vice President Of Systems Engineering - Americas
+  dates: January 2018 - Present
+  quote: >
+    Solace is the creatore of the PubSub+ Platform that helps enterprises design, deploy and manage event-driven architectures across hybrid cloud, multi-cloud and IoT environments, so they can be more integrated and event-driven
+  description: | # this will include new lines to allow paragraphs
+    Responsible for leading a geographically distributed team across Canada, USA, and Latin America. Grew the team by 70% over two years by estabilishing a rigorous interview process to ensure the team was seeded with top quality talent.
+
+    Main accomplishments:
+
+      * Grew Solace's customer base across multiple industry verticals such as capital markets, retail banking, IoT, manufacturing and aviation.
+
+      * Built strong partnerships with complementary technology vendors thereby increasing market penetration through organic growth.
+
+      * Launched several innovative initiatives across the company including automated processes to regulate the usage of public cloud saving the company over $50k in annual costs,
+      a consolidated GitHub repository to showcase work being done by the team, held a webinar with a technology partners and the lead the development of free Udemy Courses that have become
+      extremely popular with our customers.
+
+      * Led evangelization efforts for Solace's products in the NY Metro Area by organizing quarterly public meetup style presentations at our offices
+
+      * Established a structure for the team to generate technical collateral at a regular interval
+
+- layout: left
+  company: CapitalOne
+  link: http://www.capitalone.com
+  job_title: Software Development Manager
+  dates: January 2017 - January 2018
+  quote: >
+    Capital One Financial Corporation is an American bank holding company specializing in credit cards, auto loans, banking, and savings accounts, headquartered in McLean, Virginia with operations primarily in the United States, where it is one of the largest banks by assets
+  description: | # this will include new lines to allow paragraphs
+    Manager for a new team of engineers in New York for the upmarket credit card business. Responsible for building out microservices in AWS using agile methodologies that brings innovative features to our customers to help them get the most from their credit cards
+
+    Main accomplishments:
+
+      * Led the design and development of microservices in GoLang to integrate an acquired startup into the CapitalOne ecosystem.
+
+      * Led the design and implementation of a Java-based REST-ful microservice that set restrictions on credit card accounts. The microservice was deployed on AWS and exposed a restful interface to a legacy SOAP service and was used by customer service agents to set/unset restrictions on accounts.
+
+      * Led the design and implementation of a microservice to handle batched events to trigger identity verification for customers who were suspected of Fraud. Was responsible for refining the product requirements with the product manager, architecting the solution, and leading a team of 5 engineers who had minimal experience in Java development to deliver on time with a very aggressive deadline.
+
+      * Responsible for managing the first batch of 3 interns for our division in New York and lead them to deliver a working product that integrated SNS Alerts with our Enterprise Slack using agile methodologies.
+
+- layout: left
+  company: Desutche Bank
+  link: http://www.db.com
+  job_title: Vice President - Lead Messaging Middleware Specialist\Application Developer
+  dates: August 2006 - January 2018
+  quote: >
+    Deutsche Bank AG is a global multinational investment bank and financial services company headquartered in Frankfurt, Germany and dual-listed in New York Stock Exchange and Frankfurt Stock Exchange. The bank's network spans 58 countries with a large presence in Europe, the Americas and Asia.
+  description: | # this will include new lines to allow paragraphs
+    Lead for an enterprise messaging middleware group that looks after the messaging middleware stack for mission critical real time trading systems. This is a multi-disciplinary position that encompasses client-management, technical expertise, application development, documentation, architecture, vendor management, and project planning.
+
+    Main accomplishments:
+      
+      * Spearheaded a firm wide initiative to migrate Fixed Income front office trading messaging middleware flow from TIBCO Rendezvous to Solace messaging. Responsibilities include drafting reference architecture, getting buy-in from senior management, developing instrumentation, laying out a migration plan and working with application leads to execute on the plan in a timely fashion.
+      
+      * Architected and developed on an innovative suite of applications to manage the messaging middleware environment for Solace, TIBCO Rendezvous and Informatica Ultra Messaging using Core Java, KDB, and Aurelia JS. The tools are used to monitor the environment, perform post analysis on outages, manage inventory, and measure application performance. 
+      
+      * Responsible for remediating messaging related outages by re-architecting the middleware stack. The process involves liaising with application developers, network engineering, server administrators, and vendors to formulate an agreeable solution and overseeing implementation.
+      
+      * Worked with the support team to investigate problems ranging from un-booked trades, connectivity issues with external trading markets, and managing expectations of traders during system downtime. 
+      
+      * Front office technology lead for graduate and intern recruiting for the firm.  Responsible for setting recruiting strategy and interviewing candidates. Also responsible for mentoring and managing interns and college hires for the firm.
+
