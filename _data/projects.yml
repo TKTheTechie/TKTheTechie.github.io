@@ -18,6 +18,16 @@
     Lead the development of this advanced udemy course built out in Java and JavaScript to educate our users and prospects on the usage of the Solace PubSub+ Event Broker
 
 - layout: top-middle
+  name: Aurelia.IO Guest Blog Entry
+  link: http://aurelia.io/blog/2020/02/03/solace-and-aurelia-battleship-game-course
+  quote: >
+    AureliaJS is a high performance reactive JavaScript framework
+  description: | # this will include new lines to allow paragraphs
+    I wrote a guest blog entry for the AureliaJS website that showcased the work I did integrating the Aurelia framework with Solace's products.
+
+
+
+- layout: top-middle
   name: Build a Proximity Detection System with a Raspberry Pi, Solace PubSub+ and JavaScript
   link: https://solace.com/blog/build-a-proximity-detection-system/
   github: https://github.com/solacese/raspberry-pi-ultrasonic-sensor-mqtt
@@ -41,3 +51,4 @@
     My professional blogging microsite
   description: | # this will include new lines to allow paragraphs
     Houses all blogs that I've authored while working for Solace
+    
