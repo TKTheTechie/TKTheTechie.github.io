@@ -6,7 +6,7 @@
   quote: >
     A developer's guide to messaging with Solace PubSub+
   description: | # this will include new lines to allow paragraphs
-    Lead the development of this udemy course built out in Java and JavaScript to educate our users and prospects on the usage of the Solace PubSub+ Event Broker
+    Led the development of this udemy course built out in Java and JavaScript to educate our users and prospects on the usage of the Solace PubSub+ Event Broker
 
 - layout: top-middle
   name: Battleship over Solace PubSub+
@@ -15,7 +15,7 @@
   quote: >
     A course that builds out a full-stack game of Battleship using TypeScript (in Aurelia JS) and Java (in Spring Cloud Stream)
   description: | # this will include new lines to allow paragraphs
-    Lead the development of this advanced udemy course built out in Java and JavaScript to educate our users and prospects on the usage of the Solace PubSub+ Event Broker
+    Led the development of this advanced udemy course built out in Java and JavaScript to educate our users and prospects on the usage of the Solace PubSub+ Event Broker
 
 - layout: top-middle
   name: Aurelia.IO Guest Blog Entry
